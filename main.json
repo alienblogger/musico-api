@@ -1,0 +1,10 @@
+{
+	"paths":{
+		"tracks":"tracks/",
+		"files":"files/",
+	},
+	"files":{
+		"images":false,
+		"icons":true
+	}	
+}
