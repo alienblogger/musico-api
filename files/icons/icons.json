@@ -1,7 +1,12 @@
 {
-	"play": "https://alienblogger.github.com/musico-api/files/icons/play.png",
+	"play": "https://alienblogger.github.com/musico-api/files/icons/play_pause.png",
+	"play_active": "https://alienblogger.github.com/musico-api/files/icons/play_pause_active.png",
 	"next": "https://alienblogger.github.com/musico-api/files/icons/next.png",
+	"next_active": "https://alienblogger.github.com/musico-api/files/icons/next_active.png",
 	"prev": "https://alienblogger.github.com/musico-api/files/icons/prev.png",
+	"prev_active": "https://alienblogger.github.com/musico-api/files/icons/prev_active.png",
 	"add": "https://alienblogger.github.com/musico-api/files/icons/add.png",
-	"remove": "https://alienblogger.github.com/musico-api/files/icons/remove.png"
+	"add_active": "https://alienblogger.github.com/musico-api/files/icons/add_active.png",
+	"remove": "https://alienblogger.github.com/musico-api/files/icons/remove.png",
+	"remove_active": "https://alienblogger.github.com/musico-api/files/icons/remove_active.png"
 }
