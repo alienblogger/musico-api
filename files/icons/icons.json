@@ -1,7 +1,7 @@
 {
-	"play": "play",
-	"next": "next",
-	"prev": "prev",
-	"add": "add",
-	"remove": "remove"
+	"play": "https://alienblogger.github.com/musico-api/files/icons/play.png",
+	"next": "https://alienblogger.github.com/musico-api/files/icons/next.png",
+	"prev": "https://alienblogger.github.com/musico-api/files/icons/prev.png",
+	"add": "https://alienblogger.github.com/musico-api/files/icons/add.png",
+	"remove": "https://alienblogger.github.com/musico-api/files/icons/remove.png"
 }
