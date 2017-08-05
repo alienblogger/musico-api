@@ -1,14 +1,9 @@
 [
 	{
 		"id": 1,
-		"name": " Faded ( Lost Stories Remix )",
-		"album": "Faded - Lost Stories",
-		"author": "Alan Walker"
-	},
-	{
-		"id": 2,
-		"name": "Subah Subah",
-		"album": "I See You",
-		"author": "Zubeen Garg, Vishal Dadlani"
+		"name": " Wake Up",
+		"album": "NCS",
+		"artist": "Egzod",
+		"source": "https://alienblogger.github.io/files/music/egzod-wakeup.mp3"
 	}
 ]
