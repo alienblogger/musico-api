@@ -5,5 +5,12 @@
 		"album": "Despacito",
 		"artist": "Luis Fonsi",
 		"source": "http://mp3.flowhot.net/mp3/wp-content/uploads/2017/01/Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3"
+	},
+	{
+		"id": 2,
+		"name": "Wake Up",
+		"album": "NCS",
+		"artist": "Egzod",
+		"source": "https://alienblogger.github.io/musico-api/files/music/egzod-wakeup.mp3"
 	}
 ]
