@@ -12,5 +12,12 @@
 		"album": "NCS",
 		"artist": "Egzod",
 		"source": "https://alienblogger.github.io/musico-api/files/music/egzod-wakeup.mp3"
+	},
+	{
+		"id": 3,
+		"name": "Routine",
+		"album": "NCS",
+		"artist": "Alan Walker",
+		"source": "https://alienblogger.github.io/musico-api/files/music/alan-routine.mp3"
 	}
 ]
