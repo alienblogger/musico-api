@@ -19,5 +19,12 @@
 		"album": "NCS",
 		"artist": "Alan Walker",
 		"source": "https://alienblogger.github.io/musico-api/files/music/alan-routine.mp3"
+	},
+	{
+		"id": 4,
+		"name": "Lipastic",
+		"album": "Bhojpuri",
+		"artist": "Bhojpuri",
+		"source": "https://alienblogger.github.io/musico-api/files/music/lipastic.mp3"
 	}
 ]
