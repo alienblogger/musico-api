@@ -19,12 +19,5 @@
 		"album": "NCS",
 		"artist": "Alan Walker",
 		"source": "musico-api/files/music/alan-routine.mp3"
-	},
-	{
-		"id": 4,
-		"name": "Maine Tujhko Dekha",
-		"album": "Golmaal Again",
-		"artist": "",
-		"source": "musico-api/files/music/maine-tujhko-dekha.mp3"
 	}
 ]
