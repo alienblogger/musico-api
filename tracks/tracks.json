@@ -4,27 +4,27 @@
 		"name": "Alone",
 		"album": "NCS",
 		"artist": "Alan Walker",
-		"source": "https://aliezsid.github.io/musico-api/files/music/alan-alone.mp3"
+		"source": "musico-api/files/music/alan-alone.mp3"
 	},
 	{
 		"id": 2,
 		"name": "Wake Up",
 		"album": "NCS",
 		"artist": "Egzod",
-		"source": "https://aliezsid.github.io/musico-api/files/music/egzod-wakeup.mp3"
+		"source": "musico-api/files/music/egzod-wakeup.mp3"
 	},
 	{
 		"id": 3,
 		"name": "Routine",
 		"album": "NCS",
 		"artist": "Alan Walker",
-		"source": "https://aliezsid.github.io/musico-api/files/music/alan-routine.mp3"
+		"source": "musico-api/files/music/alan-routine.mp3"
 	},
 	{
 		"id": 4,
 		"name": "Maine Tujhko Dekha",
 		"album": "Golmaal Again",
 		"artist": "",
-		"source": "https://aliezsid.github.io/musico-api/files/music/maine-tujhko-dekha.mp3"
+		"source": "musico-api/files/music/maine-tujhko-dekha.mp3"
 	}
 ]
